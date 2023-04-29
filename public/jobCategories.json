@@ -1,0 +1,26 @@
+[
+  {
+    "id": "01",
+    "logo": "https://i.ibb.co/Wx1NBst/megaphone.png",
+    "name": "Marketing",
+    "job_count": 1532
+  },
+  {
+    "id": "02",
+    "logo": "https://i.ibb.co/Xt5ZwLr/coding.png",
+    "name": "Web Developer",
+    "job_count": 2487
+  },
+  {
+    "id": "03",
+    "logo": "https://i.ibb.co/X5734TH/creativity.png",
+    "name": "Creative Design",
+    "job_count": 1013
+  },
+  {
+    "id": "04",
+    "logo": "https://i.ibb.co/8NXPBKt/software-development.png",
+    "name": "Full-Stack Developer",
+    "job_count": 3024
+  }
+]

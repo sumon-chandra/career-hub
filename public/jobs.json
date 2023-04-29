@@ -1,0 +1,349 @@
+{
+  "jobs": [
+    {
+      "id": "001",
+      "company_logo": "https://i.ibb.co/7k3MQZc/google.png",
+      "job_title": "Web Developer",
+      "company_name": "Google Inc",
+      "remote_or_onsite": "Remote",
+      "location": "San Francisco",
+      "job_type": "Fulltime",
+      "salary": "$80,000 - $100,000",
+      "job_description": "We are seeking a talented web developer to join our team. Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+      "job_responsibility": [
+        "Develop and maintain web applications",
+        "Collaborate with designers and other developers to build high-quality solutions",
+        "Debug and fix issues in a timely and efficient manner",
+        "Write clean, well-documented code",
+        "Stay up-to-date with emerging trends and technologies in web development"
+      ],
+      "educational_requirements": [
+        "Bachelor's or Master's degree in Computer Science or a related field",
+        "Relevant industry certification is a plus"
+      ],
+      "experiences": [
+        "2+ years of experience in web development",
+        "Experience with HTML, CSS, JavaScript, and jQuery",
+        "Experience with React, Angular, or other modern JavaScript frameworks",
+        "Experience with back-end technologies such as Node.js, Ruby on Rails, or Django",
+        "Experience with version control systems such as Git"
+      ],
+      "contact_information": {
+        "phone": "555-1234",
+        "email": "jobs@example.com"
+      }
+    },
+    {
+      "id": "002",
+      "company_logo": "https://i.ibb.co/PYyQ5VF/amazon.png",
+      "job_title": "Software Engineer",
+      "company_name": "Amazon",
+      "remote_or_onsite": "Onsite",
+      "location": "New York City",
+      "job_type": "Fulltime",
+      "salary": "$90,000 - $120,000",
+      "job_description": "We are seeking a talented software engineer to join our team. Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+      "job_responsibility": [
+        "Design and implement software solutions that meet business requirements",
+        "Collaborate with cross-functional teams to develop and deliver high-quality software products",
+        "Debug and fix issues in a timely and efficient manner",
+        "Write clean, well-documented code",
+        "Stay up-to-date with emerging trends and technologies in software engineering"
+      ],
+      "educational_requirements": [
+        "Bachelor's or Master's degree in Computer Science or a related field"
+      ],
+      "experiences": [
+        "3+ years of experience in software engineering",
+        "Experience with one or more programming languages such as Java, C++, or Python",
+        "Experience with back-end technologies such as SQL, NoSQL, or Redis",
+        "Experience with front-end technologies such as React or Angular",
+        "Experience with cloud platforms such as AWS, Azure, or GCP"
+      ],
+      "contact_information": {
+        "phone": "555-5678",
+        "email": "careers@example.com"
+      }
+    },
+    {
+      "id": "003",
+      "company_logo": "https://i.ibb.co/G2c9k4K/facebook.png",
+      "job_title": "Full Stack developer",
+      "company_name": "Facebook",
+      "remote_or_onsite": "Remote",
+      "location": "Toronto, ON",
+      "job_type": "Fulltime",
+      "salary": "$90,000 - $120,000",
+      "job_description": "We are seeking a talented software engineer to join our team. Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+      "job_responsibility": [
+        "Design and implement software solutions that meet business requirements",
+        "Collaborate with cross-functional teams to develop and deliver high-quality software products",
+        "Debug and fix issues in a timely and efficient manner",
+        "Write clean, well-documented code",
+        "Stay up-to-date with emerging trends and technologies in software engineering"
+      ],
+      "educational_requirements": [
+        "Bachelor's or Master's degree in Computer Science or a related field"
+      ],
+      "experiences": [
+        "3+ years of experience in software engineering",
+        "Experience with one or more programming languages such as Java, C++, or Python",
+        "Experience with back-end technologies such as SQL, NoSQL, or Redis",
+        "Experience with front-end technologies such as React or Angular",
+        "Experience with cloud platforms such as AWS, Azure, or GCP"
+      ],
+      "contact_information": {
+        "phone": "555-5678",
+        "email": "careers@example.com"
+      }
+    },
+    {
+      "id": "004",
+      "company_logo": "https://i.ibb.co/SxNmqRc/pngaaa-com-5654399.png",
+      "job_title": "Web Designer",
+      "company_name": "Adobe",
+      "remote_or_onsite": "Onsite",
+      "location": "New York City",
+      "job_type": "Fulltime",
+      "salary": "$80,000 - $110,000",
+      "job_description": "We are seeking a talented software engineer to join our team. Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+      "job_responsibility": [
+        "Design and implement software solutions that meet business requirements",
+        "Collaborate with cross-functional teams to develop and deliver high-quality software products",
+        "Debug and fix issues in a timely and efficient manner",
+        "Write clean, well-documented code",
+        "Stay up-to-date with emerging trends and technologies in software engineering"
+      ],
+      "educational_requirements": [
+        "Bachelor's or Master's degree in Computer Science or a related field"
+      ],
+      "experiences": [
+        "Proficiency in at least one programming language such as Java, Python, or C++",
+        "Experience with software development methodologies such as Agile or Waterfall",
+        "Familiarity with software design patterns and architecture principles",
+        "Strong problem-solving and critical thinking skills",
+        "Ability to work collaboratively in a team environment"
+      ],
+      "contact_information": {
+        "phone": "555-3690",
+        "email": "hr@example.com"
+      }
+    },
+    {
+      "id": "005",
+      "company_logo": "https://i.ibb.co/xCPbBVH/microsoft.png",
+      "job_title": "UX/UI Designer",
+      "company_name": "Microsoft",
+      "remote_or_onsite": "Remote",
+      "location": "London, UK",
+      "job_type": "Fulltime",
+      "salary": "$110,000 - $140,000",
+      "job_description": "We are seeking a talented software engineer to join our team. Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+      "job_responsibility": [
+        "Create and maintain monitoring and alerting systems for applications and infrastructure",
+        "Participate in the design and implementation of security measures and protocols",
+        "Contribute to the development of front-end web applications",
+        "Work with QA teams to ensure high-quality, bug-free releases"
+      ],
+      "educational_requirements": [
+        "Bachelor's or Master's degree in Computer Science or a related field",
+        "Relevant industry certification is a plus"
+      ],
+      "experiences": [
+        "3+ years of experience in software engineering",
+        "Experience with one or more programming languages such as Java, C++, or Python",
+        "Experience with back-end technologies such as SQL, NoSQL, or Redis",
+        "Experience with front-end technologies such as React or Angular",
+        "Experience with cloud platforms such as AWS, Azure, or GCP"
+      ],
+      "contact_information": {
+        "phone": "555-7890",
+        "email": "talentacquisition@example.com"
+      }
+    },
+    {
+      "id": "006",
+      "company_logo": "https://i.ibb.co/pxN9fD2/airbnb.png",
+      "job_title": "DevOps Engineer",
+      "company_name": "Airbnb",
+      "remote_or_onsite": "Remote",
+      "location": "New York City",
+      "job_type": "Fulltime",
+      "salary": "$110,000 - $140,000",
+      "job_description": "We are seeking a talented software engineer to join our team. Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+      "job_responsibility": [
+        "Design and implement software solutions that meet business requirements",
+        "Collaborate with cross-functional teams to develop and deliver high-quality software products",
+        "Debug and fix issues in a timely and efficient manner",
+        "Write clean, well-documented code",
+        "Stay up-to-date with emerging trends and technologies in software engineering"
+      ],
+      "educational_requirements": [
+        "Bachelor's or Master's degree in Computer Science or a related field",
+        "Associate's degree in Information Technology",
+        "High School Diploma or equivalent"
+      ],
+      "experiences": [
+        "Knowledge of web development technologies such as HTML, CSS, and JavaScript",
+        "Experience with database systems such as SQL or NoSQL",
+        "Strong problem-solving and critical thinking skills",
+        "Ability to work collaboratively in a team environment",
+        "Excellent communication skills"
+      ],
+      "contact_information": {
+        "phone": "555-5678",
+        "email": "hiring@example.com"
+      }
+    },
+    {
+      "id": "007",
+      "company_logo": "https://i.ibb.co/0JXxNwv/uber.png",
+      "job_title": "Mobile Application Developer",
+      "company_name": "Uber",
+      "remote_or_onsite": "Onsite",
+      "location": "New York City",
+      "job_type": "Fulltime",
+      "salary": "$100,000 - $130,000",
+      "job_description": "We are seeking a talented software engineer to join our team. Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+      "job_responsibility": [
+        "Conduct code reviews and provide feedback to team members",
+        "Contribute to the development of machine learning models and algorithms",
+        "Create and maintain technical documentation for development and operations teams",
+        "Participate in the planning and implementation of cloud-based infrastructure",
+        "Collaborate with data scientists to develop data pipelines and analytics tools",
+        "Develop and maintain internal tools and libraries to improve developer productivity"
+      ],
+      "educational_requirements": [
+        "Bachelor's or Master's degree in Computer Science or a related field",
+        "Master's degree in Data Science or a related field",
+        "Technical certification in Cloud Computing or a related field",
+        "Bachelor's degree in Electrical Engineering or a related field",
+        "Master's degree in Public Health or a related field"
+      ],
+      "experiences": [
+        "3+ years of experience in software engineering",
+        "Experience with one or more programming languages such as Java, C++, or Python",
+        "Experience with back-end technologies such as SQL, NoSQL, or Redis",
+        "Experience with front-end technologies such as React or Angular",
+        "Experience with cloud platforms such as AWS, Azure, or GCP"
+      ],
+      "contact_information": {
+        "phone": "555-2468",
+        "email": "recruitment@example.com"
+      }
+    },
+    {
+      "id": "008",
+      "company_logo": "https://i.ibb.co/yF6JJRC/apple.png",
+      "job_title": "Cloud Architect",
+      "company_name": "Apple",
+      "remote_or_onsite": "Remote",
+      "location": "Dubai, UAE",
+      "job_type": "Fulltime",
+      "salary": "$85,000 - $105,000",
+      "job_description": "We are seeking a talented software engineer to join our team. Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+      "job_responsibility": [
+        "Familiarity with software design patterns and architecture principles",
+        "Knowledge of web development technologies such as HTML, CSS, and JavaScript",
+        "Experience with database systems such as SQL or NoSQL",
+        "Strong problem-solving and critical thinking skills",
+        "Ability to work collaboratively in a team environment",
+        "Excellent communication skills"
+      ],
+      "educational_requirements": [
+        "Bachelor's or Master's degree in Computer Science or a related field",
+        "Master's degree in Human-Computer Interaction or a related field",
+        "Bachelor's or Master's degree in Physics or a related field"
+      ],
+      "experiences": [
+        "3+ years of experience in software engineering",
+        "Experience with one or more programming languages such as Java, C++, or Python",
+        "Excellent communication skills",
+        "Ability to write clean, well-documented code",
+        "Bachelor's degree in Computer Science or a related field (or equivalent experience)",
+        "Experience with version control systems such as Git or SVN",
+        "Understanding of software testing methodologies and practices",
+        "Experience with cloud computing platforms such as AWS or Azure"
+      ],
+      "contact_information": {
+        "phone": "555-4321",
+        "email": "jobopenings@example.com"
+      }
+    },
+    {
+      "id": "009",
+      "company_logo": "https://i.ibb.co/Wy1HqVL/linkedin.png",
+      "job_title": "Software Engineer",
+      "company_name": "Linkedin",
+      "remote_or_onsite": "Onsite",
+      "location": "New York City",
+      "job_type": "Fulltime",
+      "salary": "$65,000 - $85,000",
+      "job_description": "We are seeking a talented software engineer to join our team. Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+      "job_responsibility": [
+        "Collaborate with data scientists to develop data pipelines and analytics tools",
+        "Develop and maintain internal tools and libraries to improve developer productivity",
+        "Create and maintain monitoring and alerting systems for applications and infrastructure",
+        "Participate in the design and implementation of security measures and protocols",
+        "Contribute to the development of front-end web applications",
+        "Stay up-to-date with emerging trends and technologies in software engineering"
+      ],
+      "educational_requirements": [
+        "Bachelor's or Master's degree in Computer Science or a related field",
+        "Degree in Mathematics or Statistics with a focus on data analysis and modeling",
+        "Master's degree in Business Administration or a related field"
+      ],
+      "experiences": [
+        "Experience with version control systems such as Git or SVN",
+        "Knowledge of web development technologies such as HTML, CSS, and JavaScript",
+        "Understanding of software testing methodologies and practices",
+        "Ability to write clean, well-documented code",
+        "Experience with back-end frameworks such as Django, Ruby on Rails, or Node.js",
+        "Familiarity with cloud deployment tools such as Terraform or CloudFormation",
+        "Experience with agile project management tools such as Jira or Trello"
+      ],
+      "contact_information": {
+        "phone": "555-7890",
+        "email": "talentacquisition@example.com"
+      }
+    },
+    {
+      "id": "010",
+      "company_logo": "https://i.ibb.co/BTcYbFr/tesla.png",
+      "job_title": "Cybersecurity Specialist",
+      "company_name": "Tesla",
+      "remote_or_onsite": "Remote",
+      "location": "San Francisco, CA",
+      "job_type": "Fulltime",
+      "salary": "$130,000 - $190,000",
+      "job_description": "We are seeking a talented software engineer to join our team. Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+      "job_responsibility": [
+        "Contribute to the development of front-end web applications",
+        "Work with QA teams to ensure high-quality, bug-free releases",
+        "Participate in the development of product roams and feature prioritization",
+        "Contribute to the development of chariots and other conversational UI applications",
+        "Create and maintain ETL pipelines for data ingestion and processing"
+      ],
+      "educational_requirements": [
+        "Bachelor's or Master's degree in Computer Science or a related field",
+        "Bachelor's degree in Graphic Design or a related field",
+        "Degree in Materials Science or a related field with a focus on product design",
+        "Master's degree in Operations Research or a related field",
+        "Bachelor's degree in Psychology or a related field with a focus on user research"
+      ],
+      "experiences": [
+        "Proficiency in at least one programming language such as Java, Python, or C++",
+        "Experience with software development methodologies such as Agile or Waterfall",
+        "Familiarity with software design patterns and architecture principles",
+        "Knowledge of web development technologies such as HTML, CSS, and JavaScript",
+        "Experience with database systems such as SQL or NoSQL",
+        "Strong problem-solving and critical thinking skills",
+        "Ability to work collaboratively in a team environment"
+      ],
+      "contact_information": {
+        "phone": "555-3690",
+        "email": "hr@example.com"
+      }
+    }
+  ]
+}
